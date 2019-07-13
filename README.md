@@ -1,15 +1,15 @@
 # Servidor express.
 
-Servidor configurado listo para desarrollar una api rest.
+Servidor configurado listo para desarrollar una API rest.
 
-También se le puede dar uso como hosting para una pagina web de forma local.
+También se le puede dar uso como hosting para una página web de forma local.
 
 ## Pasos para usar el servidor.
 
 - Descarge el último release o clone el repositorio.
 - Una vez descargado el repositorio ejecute el siguiente comando en una terminal o cmd para instalar los módulos de node.
     - ``` npm install ```
-- Para usar el servidor express ejecuta en la terminal. Estos comandos leeran el archivo server.js y levatará el servidor.
+- Para usar el servidor express ejecuta en la terminal el siguiente comando. Estos comandos ejecutan el archivo server.js y levatará el servidor, *puede usar uno, el cual le sea mas conveniente*.
     - ``` nodemon server/server ``` 
     - ``` node server/server ```
 - Abrir un navegador y usar la siguiente url, para visualizar la página veo o usar la api rest .
@@ -18,7 +18,7 @@ También se le puede dar uso como hosting para una pagina web de forma local.
 
 # Requisitos.
 - Tener instalado  [**Node**](https://nodejs.org/es/).
-- Instalar **Nodemon** <https://www.npmjs.com/package/nodemon> de manera global ``` npm install -g nodemon ```. *Ejecutar el comando como adminstrador en windows o usar sudo para macos o linux*.
+- Instalar **Nodemon** <https://www.npmjs.com/package/nodemon> de manera global ``` npm install -g nodemon ```. *Ejecutar el comando como administrador en windows o usar sudo para macos o linux*.
 
 ![node](https://nodejs.org/static/images/logo.svg "Node")
 
