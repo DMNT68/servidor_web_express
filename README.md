@@ -22,6 +22,8 @@ También se le puede dar uso como hosting para una pagina web de forma local.
 
 ![node](https://nodejs.org/static/images/logo.svg "Node")
 
+![express](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png "Express")
+
 ![npm](https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg "npm")
 
 ![Nodemon](https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png "Nodemon")
