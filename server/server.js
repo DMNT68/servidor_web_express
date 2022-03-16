@@ -25,6 +25,9 @@ app.use(express.static(path.resolve(__dirname, '../public')));
 
 // Configuración global de rutas
 app.use(require('./routes/index'));
+app.get("*", (req, res) => {
+  res.sendFile(path.resolve(__dirname, "../public", "index.html"));
+});
 
 
 app.listen(process.env.PORT, () => console.log('Express server puerto 3000: \x1b[32m%s\x1b[0m', ' online'));
